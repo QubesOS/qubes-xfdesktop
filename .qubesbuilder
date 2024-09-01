@@ -1,0 +1,18 @@
+host-fc41:
+  rpm:
+    build:
+    - xfdesktop.spec
+vm-fc37:
+  rpm:
+    build: []
+vm-fc38:
+  rpm:
+    build: []
+vm:
+  rpm:
+    build:
+    - xfdesktop.spec
+source:
+  files:
+  - url: https://archive.xfce.org/src/xfce/xfdesktop/4.18/xfdesktop-@VERSION@.tar.bz2
+    sha512: xfdesktop-@VERSION@.tar.bz2.sha512
