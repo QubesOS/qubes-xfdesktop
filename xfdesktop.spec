@@ -17,8 +17,8 @@ Summary:        Desktop manager for the Xfce Desktop Environment
 
 # Automatically converted from old format: GPLv2+ - review is highly recommended.
 License:        GPL-2.0-or-later
-URL:            http://www.xfce.org/
-Source0:        http://archive.xfce.org/src/xfce/%{name}/%{xfceversion}/%{name}-%{version}.tar.bz2
+URL:            https://www.xfce.org/
+Source0:        https://archive.xfce.org/src/xfce/%{name}/%{xfceversion}/%{name}-%{version}.tar.bz2
 
 BuildRequires:  make
 BuildRequires:  gcc-c++
